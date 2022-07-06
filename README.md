@@ -13,8 +13,8 @@ sudo flink run -m yarn-cluster \
 -ys 4 -p 8 \
 -c  com.aws.analytics.Kafka2Iceberg  \
 /home/hadoop/emr-flink-iceberg-1.0-SNAPSHOT.jar \
--b b-2.common-004.5ybaio.c3.kafka.ap-southeast-1.amazonaws.com:9092 \
--s cdc_topic_001 \
+-b b-2.xxxxx.kafka.ap-southeast-1.amazonaws.com:9092 \
+-s xxxx_topic_001 \
 -c s3://xxx/flink/checkpoint/ \
 -g msk_group_01 \
 -l 60 \
