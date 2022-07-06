@@ -40,5 +40,5 @@ Usage: Kafka2Iceberg [options]
 ```
 #### 截图
 ![](https://pcmyp.oss-accelerate.aliyuncs.com/markdown/Apache_Flink_Web_Dashboard.png)
-![](https://pcmyp.oss-accelerate.aliyuncs.com/markdown/AWS_Glue_Console.png)
+![](https://pcmyp.oss-accelerate.aliyuncs.com/markdown/20220707022024.png)
 ![](https://pcmyp.oss-accelerate.aliyuncs.com/markdown/chaopan_08f8bc6ad936__.png)
